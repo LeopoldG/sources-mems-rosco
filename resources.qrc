@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>key.png</file>
+    </qresource>
+    <qresource prefix="/help">
+        <file>help.html</file>
+    </qresource>
+    <qresource prefix="/Transfile_*">
+        <file>Transfile_ge.qm</file>
+        <file>Transfile_fr.qm</file>
+        <file>Transfile_esp.qm</file>
+        <file>Transfile_de.qm</file>
+    </qresource>
+</RCC>

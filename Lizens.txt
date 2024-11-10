@@ -1,0 +1,101 @@
+GNU GENERELLE ÖFFENTLICHE LIZENZ
+                       Version 3, 29. Juni 2007
+
+ Copyright (C) 2007 Freie Software-Grundlage, Inc. <http://fsf.org/>
+ Jeder darf wortgetreue Kopien kopieren und verteilen
+ dieses Lizenzdokuments, aber es ist nicht erlaubt, es zu ändern.
+
+                            Präambel
+
+  Die GNU General Public License ist eine kostenlose Copyleft-Lizenz für
+Software und andere Arten von Arbeiten.
+
+  Die Lizenzen für die meisten Software- und anderen praktischen Arbeiten sind entworfen
+um dir die Freiheit zu nehmen, die Werke zu teilen und zu verändern. Im Gegensatz,
+Die GNU General Public License soll Ihre Freiheit garantieren
+teilen und ändern Sie alle Versionen eines Programms - um sicherzustellen, dass es frei bleibt
+Software für alle Benutzer. Wir, die Free Software Foundation, nutzen die
+GNU General Public License für die meisten unserer Software; es gilt auch für
+jede andere Arbeit, die auf diese Weise von ihren Autoren veröffentlicht wird. Sie können es anwenden auf
+Ihre Programme auch.
+
+  Wenn wir von freier Software sprechen, beziehen wir uns auf die Freiheit, nicht
+Preis. Unsere General Public Licenses sollen sicherstellen, dass Sie
+haben die Freiheit, Kopien von freier Software zu verteilen (und dafür Gebühren zu erheben)
+Wenn Sie möchten, dass Sie den Quellcode erhalten oder wenn Sie es bekommen
+Ich will es, dass Sie die Software ändern oder Teile davon neu verwenden können
+kostenlose Programme, und Sie wissen, dass Sie diese Dinge tun können.
+
+  Um Ihre Rechte zu schützen, müssen wir verhindern, dass andere Sie verleugnen
+diese Rechte oder bitten Sie, die Rechte aufzugeben. Deshalb hast du
+bestimmte Verantwortlichkeiten, wenn Sie Kopien der Software verteilen, oder wenn
+Sie ändern es: Verantwortung, die Freiheit anderer zu respektieren.
+
+  Zum Beispiel, wenn Sie Kopien eines solchen Programms verteilen, ob
+kostenlos oder gegen eine Gebühr, müssen Sie die Empfänger die gleichen weitergeben
+Freiheiten, die Sie erhalten haben. Sie müssen sicherstellen, dass sie auch erhalten
+oder kann den Quellcode erhalten. Und Sie müssen ihnen diese Begriffe zeigen, damit sie
+kenne ihre Rechte.
+
+  Entwickler, die die GNU GPL verwenden, schützen Ihre Rechte mit zwei Schritten:
+(1) das Urheberrecht an der Software geltend machen und (2) Ihnen diese Lizenz anbieten
+Ihnen die legale Erlaubnis geben, es zu kopieren, zu verteilen und / oder zu modifizieren.
+
+  Zum Schutz der Entwickler und Autoren erklärt die GPL klar
+dass es für diese kostenlose Software keine Garantie gibt. Für beide Benutzer und
+Die GPL verlangt von den Autoren, dass modifizierte Versionen als markiert werden
+geändert, damit ihre Probleme nicht fälschlicherweise zugeschrieben werden
+Autoren früherer Versionen.
+
+  Einige Geräte sollen Benutzern den Zugriff auf die Installation oder Ausführung verweigern
+modifizierte Versionen der Software in ihnen, obwohl der Hersteller
+kann es tun. Dies ist grundsätzlich nicht mit dem Ziel vereinbar
+Schutz der Freiheit der Benutzer, die Software zu ändern. Die systematische
+Muster eines solchen Missbrauchs tritt im Bereich der Produkte für den Einzelnen auf
+verwenden, wo genau es am inakzeptabelsten ist. Daher wir
+haben diese Version der GPL entworfen, um die Praxis für diese zu verbieten
+Produkte. Wenn solche Probleme in anderen Bereichen wesentlich auftreten, werden wir
+bereit, diese Bestimmung in zukünftigen Versionen auf diese Domänen auszudehnen
+der GPL, um die Freiheit der Benutzer zu schützen.
+
+  Schließlich ist jedes Programm ständig durch Softwarepatente bedroht.
+Die Staaten sollten nicht zulassen, dass Patente die Entwicklung und Verwendung von
+Software auf Allzweck-Computern, aber in denen, die wir tun wollen
+vermeiden Sie die besondere Gefahr, die Patente auf ein kostenloses Programm haben könnten
+mach es effektiv proprietär. Um dies zu verhindern, stellt die GPL dies sicher
+Patente können nicht dazu verwendet werden, das Programm unfrei zu machen.
+
+  Die genauen Bedingungen für Kopieren, Vertrieb und
+Modifikation folgen.
+
+                       GESCHÄFTSBEDINGUNGEN
+
+  0. Definitionen.
+
+  "Diese Lizenz" bezieht sich auf Version 3 der GNU General Public License.
+
+  "Urheberrecht" bedeutet auch urheberrechtsähnliche Gesetze, die für andere Arten gelten
+funktioniert, wie beispielsweise Halbleitermasken.
+
+  "Das Programm" bezieht sich auf urheberrechtlich geschützte Werke, die unter dieser Lizenz stehen
+Lizenz. Jeder Lizenznehmer wird als "Sie" angesprochen. "Lizenznehmer" und
+"Empfänger" können Einzelpersonen oder Organisationen sein.
+
+  Ein Werk zu "modifizieren" bedeutet, das Werk ganz oder teilweise zu kopieren oder anzupassen
+in einer Art und Weise, die eine Urheberrechtsgenehmigung erfordert, abgesehen von der Erstellung eines
+exakte Kopie. Die daraus resultierende Arbeit wird als "modifizierte Version" des
+frühere Arbeit oder eine Arbeit "basierend auf" der früheren Arbeit.
+
+  Eine "gedeckte Arbeit" bedeutet entweder das unmodifizierte Programm oder eine Arbeit, die auf Arbeit basiert
+auf dem Programm.
+
+  Ein Werk "propagieren" heißt, damit alles zu tun, ohne
+Erlaubnis, würde Sie direkt oder sekundär haftbar machen für
+Verstöße gegen das geltende Urheberrecht, mit Ausnahme von a
+Computer oder Ändern einer privaten Kopie. Die Weitergabe umfasst das Kopieren,
+Verteilung (mit oder ohne Änderung), zur Verfügung stellen der
+Öffentlichkeit und in einigen Ländern auch andere Aktivitäten.
+
+  Ein Werk "vermitteln" bedeutet jede Art von Fortpflanzung, die andere ermöglicht
+Parteien, Kopien zu machen oder zu erhalten. Mere Interaktion mit einem Benutzer durch
+ein Computernetzwerk, ohne Übertragung einer Kopie,

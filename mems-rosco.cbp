@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="mems-rosco" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Qt\;CMake Files\..\..\Qt\5.7\;CMake Files\..\..\Qt\5.7\mingw53_32\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5LinguistTools\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5PrintSupport\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\;CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="translations_update">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 translations_update" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="translations">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 translations" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 install" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mems-rosco">
+         <Option output="C:/QT-examples/mems-rosco-logs/mems-rosco.exe" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DVER_MAJOR=2" />
+            <Add option="-DVER_MINOR=2" />
+            <Add option="-DVER_PATCH=1" />
+            <Add option="-DQT_WIDGETS_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_NO_DEBUG" />
+            <Add directory="C:/QT-examples/mems-rosco-logs" />
+            <Add directory="C:/QT-examples/mems-rosco-logs/analogwidgets" />
+            <Add directory="C:/QT-examples/mems-rosco-logs/qledindicator" />
+            <Add directory="C:/Qt/5.7/mingw53_32/./mkspecs/win32-g++" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtCore" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtGui" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtWidgets" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32" />
+            <Add directory="C:/mems-rosco-log/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 mems-rosco" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mems-rosco/fast">
+         <Option output="C:/QT-examples/mems-rosco-logs/mems-rosco.exe" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add option="-DVER_MAJOR=2" />
+            <Add option="-DVER_MINOR=2" />
+            <Add option="-DVER_PATCH=1" />
+            <Add option="-DQT_WIDGETS_LIB" />
+            <Add option="-DQT_GUI_LIB" />
+            <Add option="-DQT_CORE_LIB" />
+            <Add option="-DQT_NO_DEBUG" />
+            <Add directory="C:/QT-examples/mems-rosco-logs" />
+            <Add directory="C:/QT-examples/mems-rosco-logs/analogwidgets" />
+            <Add directory="C:/QT-examples/mems-rosco-logs/qledindicator" />
+            <Add directory="C:/Qt/5.7/mingw53_32/./mkspecs/win32-g++" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtCore" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtGui" />
+            <Add directory="C:/Qt/5.7/mingw53_32/include/QtWidgets" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/../../../../i686-w64-mingw32/include" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include" />
+            <Add directory="C:/Qt/Tools/mingw530_32/bin/../lib/gcc/i686-w64-mingw32/5.3.0/include-fixed" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/backward" />
+            <Add directory="C:/Qt/Tools/mingw530_32/lib/gcc/../../i686-w64-mingw32/include/c++/i686-w64-mingw32" />
+            <Add directory="C:/mems-rosco-log/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 mems-rosco/fast" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/local">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 install/local" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="package">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 package" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="package_source">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 package_source" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="install/strip">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 install/strip" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="list_install_components">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 list_install_components" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="mems-rosco_automoc">
+         <Option working_dir="C:/QT-examples/mems-rosco-logs" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 mems-rosco_automoc" />
+            <CompileFile command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="C:/Qt/Tools/mingw530_32/bin/mingw32-make.exe -f &quot;C:/QT-examples/mems-rosco-logs/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/aboutbox.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/aboutbox.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/abstractmeter.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/abstractmeter.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/functions.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/functions.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/led.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/led.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/manometer.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/manometer.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/widgetwithbackground.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/analogwidgets/widgetwithbackground.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/helpviewer.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/helpviewer.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/logger.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/logger.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/main.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/mainwindow.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/mainwindow.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/mainwindow.ui">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/memsinterface.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/memsinterface.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/optionsdialog.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/optionsdialog.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/qcustomplot.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/qcustomplot.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/qledindicator/qledindicator.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/qledindicator/qledindicator.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/resources.qrc">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/serialdevenumerator.cpp">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/serialdevenumerator.h">
+         <Option target="mems-rosco"/>
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/help.html.in">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/resources.qrc">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/README">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/LICENSE">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5LinguistTools\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5PrintSupport/Qt5PrintSupportConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5PrintSupport\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5PrintSupport/Qt5PrintSupportConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5PrintSupport\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5PrintSupport/Qt5PrintSupport_QWindowsPrinterSupportPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5PrintSupport\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Widgets\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QDDSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5Gui_QWindowsIntegrationPlugin.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Gui\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\" />
+      </Unit>
+      <Unit filename="C:/QT-examples/mems-rosco-logs/../../Qt/5.7/mingw53_32/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+          <Option virtualFolder="CMake Files\..\..\Qt\5.7\mingw53_32\lib\cmake\Qt5Core\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>
